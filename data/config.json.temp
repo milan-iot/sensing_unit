@@ -1,0 +1,11 @@
+{
+	"mode":"WiFi standalone",
+	"wifi":{
+		"ssid":"...",
+		"pass":"..."
+	},
+	"udp_server":{
+		"ip":"95.179.159.100",
+		"port":58088
+	}
+}
